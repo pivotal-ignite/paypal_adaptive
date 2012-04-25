@@ -1,4 +1,4 @@
 module PaypalAdaptive
-  VERSION = "0.2.9"
+  VERSION = "0.2.9.1"
 end
 
